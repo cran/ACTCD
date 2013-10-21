@@ -1,0 +1,6 @@
+import(R.methodsS3) 
+export(alpha, eta, cd.cluster, labeling, npar.CDM) 
+S3method(print, cd.cluster) 
+S3method(print, labeling) 
+S3method(print, npar.CDM) 
+useDynLib(ACTCD, .registration = TRUE)
