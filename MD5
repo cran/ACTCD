@@ -1,5 +1,5 @@
-593f64f62a956c13359d42683a415771 *DESCRIPTION
-15016d4361ba6a8e9eaaf76f3a7b3c4e *NAMESPACE
+c2c4f2b327a7470a92a140924bd603f3 *DESCRIPTION
+f52cb9e2add989640c74cdb238e4310e *NAMESPACE
 e5d59962c80e6ad01466dc5a98578a9b *R/DistIdealPatt.R
 a950fcc3e05b0d8d4779f1134674f905 *R/alpha.R
 0ff9e2005a032e01d816064b97864d41 *R/cd.cluster.R
@@ -14,7 +14,7 @@ c6215b599fbf48ce982b3e2c06f232fc *data/perm3.rda
 676ac0d953921ba602415e9c52942367 *data/perm4.rda
 fafec71b345d20c4ca70bca86ee32268 *data/sim.Q.rda
 b57b2fdb93492d5e8cab224fd38d01dc *data/sim.dat.rda
-b22542b1297c7e9f0c34553136d640dc *man/ACTCD-package.Rd
+6034cd2b32eca8c227663d25ee02e994 *man/ACTCD-package.Rd
 f284e1a5a166ceb847568e1b4afe0bc0 *man/alpha.Rd
 9f0f75951df9d24e857b841d0f8c820b *man/cd.cluster.Rd
 82de0efd25752c1eb90eaa6a4455ce18 *man/eta.Rd
@@ -24,4 +24,4 @@ f284e1a5a166ceb847568e1b4afe0bc0 *man/alpha.Rd
 9269d00bdbc2ee6d62cc95c9b1bb16fb *man/print.output.Rd
 7a095bd4f1e2bf55ade9f0a2e5e6cedf *man/sim.Q.Rd
 b5162b5993dbcfa444e4e089be92a4be *man/sim.dat.Rd
-0905adf750d90aa551011a2ed707c3a5 *src/ICIndex.f90
+4368c9a69b7e8b2e2e35a92b6f093efa *src/ICIndex.f90

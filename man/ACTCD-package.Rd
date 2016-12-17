@@ -7,7 +7,7 @@ ACTCD: Asymptotic Classification Theory for Cognitive Diagnosis
 }
 
 \description{
-This package implements cluster analysis for cognitive diagnosis based on the Asymptotic Classification Theory (Chiu, Douglas & Li, 2009). 
+Cluster analysis for cognitive diagnosis based on the Asymptotic Classification Theory (Chiu, Douglas & Li, 2009). 
 }
 \details{
 \tabular{ll}{

@@ -3,7 +3,7 @@ subroutine ICIndex(IC_result,k,length,p,a,w)
 
   implicit none
   integer,intent(in)::k
-  integer*4,intent(in):: length
+  integer,intent(in):: length
   integer I,J,m1,m2,n,q,IC1,IC2,IC3,sum1,sum2,col
   integer,intent(out):: IC_result(length,1)
   integer,intent(in)::p(length,2**k)
@@ -38,14 +38,14 @@ subroutine ICIndex(IC_result,k,length,p,a,w)
     enddo !finish computing the second part of IC
 
     do m1=1,(ubound(temp,1)-1)  !m1 is from 1 to row_num of temp-1
-        !=========compute rowsum of m1 row=========¡ê?
+        !=========compute rowsum of m1 row=========???
         sum1=0
         do col=1,ubound(temp,2)
             sum1=sum1+temp(m1,col)
         enddo
 
         do m2=(m1+1),ubound(temp,1) !m2 is from m1+1 to row_num of temp
-            !=========compute rowsum of m2 row=========¡ê?
+            !=========compute rowsum of m2 row=========???
             sum2=0
             do col=1,ubound(temp,2)
                 sum2=sum2+temp(m2,col)
