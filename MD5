@@ -1,11 +1,11 @@
-c2c4f2b327a7470a92a140924bd603f3 *DESCRIPTION
-f52cb9e2add989640c74cdb238e4310e *NAMESPACE
+69c30dd442782f512b63fe89d141f3af *DESCRIPTION
+0280394f17bcd18377ddee039b26fff6 *NAMESPACE
 e5d59962c80e6ad01466dc5a98578a9b *R/DistIdealPatt.R
-a950fcc3e05b0d8d4779f1134674f905 *R/alpha.R
+974b19d0f6800cfc4e0b6b40370634d9 *R/alpha.R
 0ff9e2005a032e01d816064b97864d41 *R/cd.cluster.R
 20c98f6988bd20c58f1123b315ec2d3b *R/eta.R
 259e63a856911a9dd9a7c3bad1d64de2 *R/input.check.R
-a3d93a2accc453506c6743ba9b2fc015 *R/labeling.R
+cdbb849e76dbf9b8bb11d4d03a561146 *R/labeling.R
 1bf73379f1e8a59334767a0180236813 *R/npar.CDM.R
 d1522fdd208e90f01b16225f95725b74 *R/print.Labeling.R
 cb7beff8447906c93c818d3407262395 *R/print.cd.cluster.R
@@ -14,7 +14,7 @@ c6215b599fbf48ce982b3e2c06f232fc *data/perm3.rda
 676ac0d953921ba602415e9c52942367 *data/perm4.rda
 fafec71b345d20c4ca70bca86ee32268 *data/sim.Q.rda
 b57b2fdb93492d5e8cab224fd38d01dc *data/sim.dat.rda
-6034cd2b32eca8c227663d25ee02e994 *man/ACTCD-package.Rd
+1ec7f669482efad9f601cc0ce9a62f7c *man/ACTCD-package.Rd
 f284e1a5a166ceb847568e1b4afe0bc0 *man/alpha.Rd
 9f0f75951df9d24e857b841d0f8c820b *man/cd.cluster.Rd
 82de0efd25752c1eb90eaa6a4455ce18 *man/eta.Rd
@@ -24,4 +24,5 @@ f284e1a5a166ceb847568e1b4afe0bc0 *man/alpha.Rd
 9269d00bdbc2ee6d62cc95c9b1bb16fb *man/print.output.Rd
 7a095bd4f1e2bf55ade9f0a2e5e6cedf *man/sim.Q.Rd
 b5162b5993dbcfa444e4e089be92a4be *man/sim.dat.Rd
+ae2239285d8ce6bdeec7dbed2a1fc2f0 *src/ACTCD_init.c
 4368c9a69b7e8b2e2e35a92b6f093efa *src/ICIndex.f90

@@ -31,7 +31,7 @@ The package \code{\link{ACTCD}} is an easy-to-use tool. The responses matrix and
 \author{
 Chia-Yi Chiu (Rutgers, the State University of New Jersey) and Wenchao Ma (Rutgers, the State University of New Jersey).
   
- Maintainer: Wenchao Ma \email{wenchao.ma@rutgers.edu}
+ Maintainer: Wenchao Ma \email{wenchao.ma@ua.edu}
 }
 \references{
   Chiu, C. Y., Douglas, J. A., & Li, X. (2009). Cluster analysis for cognitive diagnosis: theory and applications. \emph{Psychometrika, 74}(4), 633-665.

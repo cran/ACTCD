@@ -226,9 +226,7 @@ function(Y,Q,cd.cluster.object,method = c("2b","2a","1","3"),perm=NULL){
         
       }
     }
-    if (length(gi) == 0){ #no group need to be labelled
-      break
-    }
+    
   }
     #================Calculate output================#
     label.cluster <- array(NA,dim = length(cluster))

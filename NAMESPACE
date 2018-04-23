@@ -1,4 +1,5 @@
 import(R.methodsS3) 
+importFrom("GDINA","attributepattern")
 importFrom("stats", "aggregate", "cutree", "dist", "hclust", "kmeans")
 importFrom("utils", "combn")
 export(alpha, eta, cd.cluster, labeling, npar.CDM) 
