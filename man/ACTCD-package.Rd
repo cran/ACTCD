@@ -10,14 +10,7 @@ ACTCD: Asymptotic Classification Theory for Cognitive Diagnosis
 Cluster analysis for cognitive diagnosis based on the Asymptotic Classification Theory (Chiu, Douglas & Li, 2009). 
 }
 \details{
-\tabular{ll}{
-Package: \tab ACTCD\cr
-Type: \tab Package\cr
-Version: \tab 1.0-0\cr
-Date: \tab 2013-10-21\cr
-License: \tab \acronym{GPL} (>= 2.0)\cr
-Depends: \tab R (>= 2.15.1), R.methodsS3
-}
+
 
 Cognitive Diagnosis aims primarily to obtain examinees' mastery or non-mastery on a set of attributes or skills of interest, based on their responses to test items and a pre-specified Q-matrix (Tatsuoka, 1985). The Asymptotic Classification Theory (Chiu, Douglas & Li, 2009) provides mathematical grounds for cognitive diagnosis using cluster analysis. 
 
